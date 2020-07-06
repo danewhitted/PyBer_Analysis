@@ -14,6 +14,6 @@ It is worth noting the last week of February there is spike in fares in all thre
 
 I did not run into any major technical difficulties that I am aware of. I do not have enough experience to recommend any obstacles to look out for. Whenever I did run into an issue I could not solve quickly, a patient google search would reveal the answer.
 
-I would recommend analyzing in more how many drivers are needed per city type. It doesn't seem to be apparent those numbers are being optimzed for profit at all times. The urban cities may have too many drivers. I could produce a dataframe that could compare slow and busy seasons with number of drivers and average fares. 
+I would recommend analyzing in more detail how many drivers are needed per city type. It doesn't seem to be apparent those numbers are being optimzed for profit at all times. The urban cities may have too many drivers. I could produce a dataframe that could compare slow and busy seasons with number of drivers and average fares. 
 
 
